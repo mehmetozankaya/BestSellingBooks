@@ -2,4 +2,4 @@
 Social Data Mining Techniques. BDAT1007
 
 To run:  
-Update MongoDB connection string and table name in constants.py
+Update MongoDB connection string, database name and table name in constants.py
